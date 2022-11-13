@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <_CodesignBundle Include="mobile_iot.app">
+    <_CodesignBundle Include="mobile_iot_lab01.app">
       <CodesignSigningKey>-</CodesignSigningKey>
       <CodesignEntitlements></CodesignEntitlements>
       <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/jakubnowak/RiderProjects/mobile_iot/mobile_iot</SourceProjectPath>
+      <SourceProjectPath>/Users/jakubnowak/RiderProjects/mobile_iot/mobile_iot_lab01</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

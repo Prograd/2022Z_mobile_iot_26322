@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <_PostProcessingItem Include="mobile_iot.app/mobile_iot">
-      <BCSymbolMapName>mobile_iot.bcsymbolmap</BCSymbolMapName>
+    <_PostProcessingItem Include="mobile_iot_lab01.app/mobile_iot_lab01">
+      <BCSymbolMapName>mobile_iot_lab01.bcsymbolmap</BCSymbolMapName>
       <NoDSymUtil>true</NoDSymUtil>
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
-      <dSYMInfoPlistRelativePath>mobile_iot.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/jakubnowak/RiderProjects/mobile_iot/mobile_iot/obj/Debug/net6.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
-      <DSymName>mobile_iot.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/jakubnowak/RiderProjects/mobile_iot/mobile_iot</SourceProjectPath>
+      <dSYMInfoPlistRelativePath>mobile_iot_lab01.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/jakubnowak/RiderProjects/mobile_iot/mobile_iot_lab01/obj/Debug/net6.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>mobile_iot_lab01.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/jakubnowak/RiderProjects/mobile_iot/mobile_iot_lab01</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>
